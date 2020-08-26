@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-20T23:18:17 IST" name="Command line suite" finished-at="2020-08-20T23:18:18 IST" duration-ms="100">
+    <groups>
+    </groups>
+    <test started-at="2020-08-20T23:18:17 IST" name="Command line test" finished-at="2020-08-20T23:18:18 IST" duration-ms="100">
+      <class name="Vishalproject.MvenJava.seleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:Vishalproject.MvenJava.seleniumTest@462d5aee]" started-at="2020-08-20T23:18:18 IST" name="BrowserAutomation" finished-at="2020-08-20T23:18:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elementUI()[pri:0, instance:Vishalproject.MvenJava.seleniumTest@462d5aee]" started-at="2020-08-20T23:18:18 IST" name="elementUI" finished-at="2020-08-20T23:18:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- Vishalproject.MvenJava.seleniumTest -->
+      <class name="Vishalproject.MvenJava.restapiTest">
+        <test-method signature="deleteTwitter()[pri:0, instance:Vishalproject.MvenJava.restapiTest@6a1aab78]" started-at="2020-08-20T23:18:18 IST" name="deleteTwitter" finished-at="2020-08-20T23:18:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="postJira()[pri:0, instance:Vishalproject.MvenJava.restapiTest@6a1aab78]" started-at="2020-08-20T23:18:18 IST" name="postJira" finished-at="2020-08-20T23:18:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- Vishalproject.MvenJava.restapiTest -->
+      <class name="Vishalproject.MvenJava.appiumTest">
+        <test-method signature="androidapp()[pri:0, instance:Vishalproject.MvenJava.appiumTest@74ad1f1f]" started-at="2020-08-20T23:18:18 IST" name="androidapp" finished-at="2020-08-20T23:18:18 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- androidapp -->
+        <test-method signature="iosapp()[pri:0, instance:Vishalproject.MvenJava.appiumTest@74ad1f1f]" started-at="2020-08-20T23:18:18 IST" name="iosapp" finished-at="2020-08-20T23:18:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosapp -->
+      </class> <!-- Vishalproject.MvenJava.appiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
